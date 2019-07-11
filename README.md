@@ -1,2 +1,2 @@
 # BANE
-Binarized Attributed Network Embedding
+Binarized Attributed Network Embedding - ICDM2018
